@@ -1,0 +1,20 @@
+ex06
+
+14/20
+
+-1
+main ne doit pas figurer dans le fichier où library est définie
+
+-2
+pas de lib
+
+-2
+6.2
+ex6_02 pas appelé, rien s'affiche
+
+6.4
+s'il vous plaît afficher la liste d'entrée
+
+-1
+6.5
+pas de noms d'équipes affichées
